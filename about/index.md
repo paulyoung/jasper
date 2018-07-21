@@ -2,12 +2,14 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Hi, I'm Paul.
 
-We use this for testing and for reference!
+I enjoy [writing software](https://github.com/paulyoung) and [designing interfaces](https://dribbble.com/paulyoung).
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+I prefer purely functional, strongly typed programming languages.
+
+I live in California, USA.

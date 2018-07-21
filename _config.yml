@@ -4,17 +4,17 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Paul Young'
+description: "Software Engineer"
 
-short_url: 'jekyller.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'paulyoung.github.io'
+google_analytics: UA-3509813-8
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
